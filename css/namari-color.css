@@ -37,7 +37,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 /* Border Color */
 
-#banner .section-heading:before, .testimonial.classic footer:before {
+#banner .section-heading:before, .team-member.classic footer:before {
     background: #d2b356;
 }
 
@@ -194,15 +194,15 @@ body {
     color:#9c9c9c;
 }
 
-/* Testimonial */
+/* Team */
 
-.testimonial q {
+.team-member q {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 17px; 
     font-weight:300;
 }
 
-.testimonial.classic q, .testimonial.classic footer {
+.team-member.classic q, .team-member.classic footer {
     color:#111;
 }
 

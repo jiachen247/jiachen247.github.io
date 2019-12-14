@@ -353,7 +353,7 @@ section {
 }
 
 #logo img {
-    max-height: 40px;
+    max-height: 50px;
     vertical-align: middle;
     margin-right: 10px;
 }
@@ -926,35 +926,35 @@ h6 {
 
 /* --------- 6.3 Testimonials ---------- */
 
-.testimonial {
-    padding: 15px;
+.team-member {
+    padding: 10px;
 }
 
 blockquote {
     position: relative;
 }
 
-.testimonial img {
+.team-member img {
     max-height: 120px;
     border-radius: 250em;
 }
 
-.testimonial footer {
-    padding-top: 12px;
+.team-member footer {
+    padding-top: 10px;
 }
 
 /* Style Classic - Avatar above Testimonial */
 
-.testimonial.classic img {
+.team-member.classic img {
     display: inline-block;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
-.testimonial.classic q {
+.team-member.classic q {
     display: block;
 }
 
-.testimonial.classic footer:before {
+.team-member.classic footer:before {
     display: block;
     content: "";
     width: 30px;
@@ -964,11 +964,11 @@ blockquote {
 
 /* Style Big */
 
-.testimonial.bigtest {
+.team-member.bigtest {
     padding-top: 0;
 }
 
-.testimonial.bigtest q {
+.team-member.bigtest q {
     font-size: 22px;
 }
 
