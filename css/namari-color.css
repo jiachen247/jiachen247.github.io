@@ -124,7 +124,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
+    /* Uncomment when a nice pic is found to replace */
+    /* background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;*/ 
     background-size:cover;
 }
 
